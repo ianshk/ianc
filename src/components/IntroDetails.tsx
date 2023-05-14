@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Icons from "./Icons";
+import SideBar from "./SideBar";
 
 export default function IntroDetails() {
   return (
@@ -14,6 +14,7 @@ export default function IntroDetails() {
             alt="Ian"
             className="aspect-square rotate-3 rounded-2xl object-cover shadow-lg shadow-slate-400"
           />
+          <SideBar />
         </div>
         <div className="max-w-md">
           <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-slate-800 pb-4">
