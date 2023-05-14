@@ -39,10 +39,10 @@ export default function IntroDetails() {
             look great but also function flawlessly.
           </p>
           <p>
-            If you have Figma design files, I can convert them into precise
-            React components that match the original design. Attention to detail
-            is important to me, and I strive to deliver a visually consistent
-            final product.
+            I possess the necessary skills to transform Figma designs into React
+            components that accurately reflect the original design. I prioritize
+            meticulous attention to detail and strive to provide a visually
+            cohesive end product.
           </p>
           <p>
             Over the years I have honed my skills in both front-end javascript
