@@ -11,7 +11,7 @@ export default function IntroDetails() {
             width={300}
             height={300}
             alt="Ian"
-            className="grayscale aspect-square rotate-2 rounded-2xl bg-zinc-100 object-cover"
+            className="aspect-square rotate-2 rounded-2xl bg-zinc-100 object-cover"
           />
         </div>
         <div className="pt-4 max-w-md">
