@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import SideBar from "./SideBar";
+import IconList from "./IconList";
 
 export default function IntroDetails() {
   return (
@@ -14,7 +14,9 @@ export default function IntroDetails() {
             alt="Ian"
             className="aspect-square rotate-3 rounded-2xl object-cover shadow-lg shadow-slate-400"
           />
-          <SideBar />
+          <div className="hidden md:block md:pt-10 pt-0">
+            <IconList />
+          </div>
         </div>
         <div className="max-w-md">
           <span className="inline-flex items-center rounded-full bg-teal-50 px-2 py-1 text-sm font-medium text-teal-900 ring-1 ring-inset ring-teal-600/20 mb-2">
@@ -47,6 +49,9 @@ export default function IntroDetails() {
             frameworks and back-end frameworlds, allowing me to develop robust
             and seamlessly integrated web applications.
           </p>
+          <div className="md:hidden block">
+            <IconList />
+          </div>
         </div>
       </div>
     </div>
