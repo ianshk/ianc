@@ -26,7 +26,6 @@ export default function IntroDetails() {
             technologies. My focus is on creating responsive, efficient, and
             dynamic websites that meet your specific needs.
           </p>
-
           <p>
             I specialize in using Tailwind CSS, React, and React frameworks like
             Next.js and Remix. These tools enable me to build powerful websites
@@ -34,18 +33,15 @@ export default function IntroDetails() {
             of design and can create visually appealing interfaces that not only
             look great but also function flawlessly.
           </p>
-
           <p>
             If you have Figma design files, I can convert them into precise
             React components that match the original design. Attention to detail
             is important to me, and I strive to deliver a visually consistent
             final product.
           </p>
-
           <p>
-            With two years of experience in modern web frameworks, I have honed
-            my skills in both front-end and back-end development. I am
-            proficient in REST APIs and GraphQL, allowing me to develop robust
+            Over the years I have honed my skills in both front-end javascript
+            frameworks and back-end frameworlds, allowing me to develop robust
             and seamlessly integrated web applications.
           </p>
         </div>
