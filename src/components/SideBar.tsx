@@ -41,7 +41,7 @@ export default function SideBar() {
         <li className="mt-4 flex">
           <a
             className="group flex text-base text-slate-500 transition hover:text-slate-700"
-            href="htps://github.com"
+            href="mailto:ianshk@gmail.com"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
