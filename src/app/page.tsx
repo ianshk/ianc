@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <div className="fixed inset-0 flex justify-center sm:px-8">
         <div className="flex w-full max-w-7xl px-4 lg:px-8">
-          <div className="w-full bg-white ring-1 ring-zinc-200" />
+          <div className="w-full bg-white ring-1 ring-slate-200" />
         </div>
       </div>
       <div className="relative">
