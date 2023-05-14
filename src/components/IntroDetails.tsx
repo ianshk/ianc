@@ -4,9 +4,9 @@ import IconList from "./IconList";
 
 export default function IntroDetails() {
   return (
-    <div className="pt-20">
+    <div className="pt-14">
       <div className="flex flex-row gap-12 flex-wrap">
-        <div className="">
+        <div className="justify-center">
           <Image
             src="/images/avatar.jpg"
             width={300}
