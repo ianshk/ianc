@@ -14,13 +14,7 @@ export default function Home() {
       </div>
       <div className="relative">
         <div className="container mx-auto max-w-2xl lg:max-w-4xl px-12">
-          <Image
-            src="/images/Head.png"
-            width={50}
-            height={50}
-            alt="Ian"
-            className="mx-auto border-solid border-2 border-teal-400 rounded-full mt-4"
-          />
+          <Image src="/images/Logo.svg" width={150} height={31} alt="Ian Callaghan" className="mt-4" />
           <Intro />
           <OpenSource />
         </div>
