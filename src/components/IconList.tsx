@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 export default function IconList() {
   return (
@@ -6,7 +6,7 @@ export default function IconList() {
       <li className="mt-4 flex">
         <a
           className="group flex text-base text-slate-500 transition hover:text-slate-700"
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/ianshk/"
         >
           <svg
             viewBox="0 0 24 24"
