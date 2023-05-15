@@ -1,10 +1,10 @@
-import React from "react";
-import Image from "next/image";
-import IconList from "./IconList";
+import React from 'react';
+import Image from 'next/image';
+import IconList from './IconList';
 
 export default function Intro() {
   return (
-    <div className="pt-14">
+    <div className="pt-14 pb-10">
       <div className="flex flex-row gap-12 flex-wrap">
         <div className=" mx-auto md:mx-0">
           <Image
@@ -26,33 +26,28 @@ export default function Intro() {
             I'm Ian, a Front-end web developer based in Hong Kong
           </h1>
           <p>
-            I'm a front-end React developer with a passion for simplifying
-            complex problems and staying up to date with the latest web
-            technologies. My focus is on creating responsive, efficient, and
-            dynamic websites that meet your specific needs.
+            I'm a front-end React developer with a passion for simplifying complex problems and staying up to
+            date with the latest web technologies. My focus is on creating responsive, efficient, and dynamic
+            websites that meet your specific needs.
           </p>
           <p>
-            I specialize in using React, and React frameworks like Next.js and
-            Remix. I also love working with the Tailwind CSS library, These
-            tools enable me to build powerful websites that provide a seamless
-            user experience. I also have a strong sense of design and can create
-            visually appealing interfaces that not only look great but also
-            function flawlessly.
+            I specialize in using React, and React frameworks like Next.js and Remix. I also love working with
+            the Tailwind CSS library, These tools enable me to build powerful websites that provide a seamless
+            user experience. I also have a strong sense of design and can create visually appealing interfaces
+            that not only look great but also function flawlessly.
           </p>
           <p>
-            I possess the necessary skills to transform Figma designs into React
-            components that accurately reflect the original design. I prioritize
-            meticulous attention to detail and strive to provide a visually
-            cohesive end product.
+            I possess the necessary skills to transform Figma designs into React components that accurately
+            reflect the original design. I prioritize meticulous attention to detail and strive to provide a
+            visually cohesive end product.
           </p>
           <p>
-            Over the years I have honed my skills in both front-end javascript
-            frameworks and back-end frameworks, allowing me to develop robust
-            and seamlessly integrated web applications.
+            Over the years I have honed my skills in both front-end javascript frameworks and back-end
+            frameworks, allowing me to develop robust and seamlessly integrated web applications.
           </p>
           <p>
-            Feel free to connect with me to explore potential collaborations or
-            discuss how I can contribute to your projects.
+            Feel free to connect with me to explore potential collaborations or discuss how I can contribute
+            to your projects.
           </p>
           <div className="md:hidden block">
             <IconList />

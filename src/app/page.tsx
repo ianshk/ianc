@@ -1,7 +1,8 @@
-import React from "react";
-import Intro from "@/components/Intro";
-import Footer from "@/components/Footer";
-import Image from "next/image";
+import React from 'react';
+import Intro from '@/components/Intro';
+import Footer from '@/components/Footer';
+import Image from 'next/image';
+import OpenSource from '@/components/OpenSource';
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
             className="mx-auto border-solid border-2 border-teal-400 rounded-full mt-4"
           />
           <Intro />
+          <OpenSource />
         </div>
         <Footer />
       </div>
