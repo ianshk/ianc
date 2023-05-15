@@ -2,11 +2,11 @@ import React from "react";
 import Image from "next/image";
 import IconList from "./IconList";
 
-export default function IntroDetails() {
+export default function Intro() {
   return (
     <div className="pt-14">
       <div className="flex flex-row gap-12 flex-wrap">
-        <div className="justify-center">
+        <div className=" mx-auto md:mx-0">
           <Image
             src="/images/avatar.jpg"
             width={300}
@@ -32,11 +32,12 @@ export default function IntroDetails() {
             dynamic websites that meet your specific needs.
           </p>
           <p>
-            I specialize in using Tailwind CSS, React, and React frameworks like
-            Next.js and Remix. These tools enable me to build powerful websites
-            that provide a seamless user experience. I also have a strong sense
-            of design and can create visually appealing interfaces that not only
-            look great but also function flawlessly.
+            I specialize in using React, and React frameworks like Next.js and
+            Remix. I also love working with the Tailwind CSS library, These
+            tools enable me to build powerful websites that provide a seamless
+            user experience. I also have a strong sense of design and can create
+            visually appealing interfaces that not only look great but also
+            function flawlessly.
           </p>
           <p>
             I possess the necessary skills to transform Figma designs into React
@@ -48,6 +49,10 @@ export default function IntroDetails() {
             Over the years I have honed my skills in both front-end javascript
             frameworks and back-end frameworks, allowing me to develop robust
             and seamlessly integrated web applications.
+          </p>
+          <p>
+            Feel free to connect with me to explore potential collaborations or
+            discuss how I can contribute to your projects.
           </p>
           <div className="md:hidden block">
             <IconList />
