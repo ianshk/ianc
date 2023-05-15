@@ -46,7 +46,7 @@ export default function IntroDetails() {
           </p>
           <p>
             Over the years I have honed my skills in both front-end javascript
-            frameworks and back-end frameworlds, allowing me to develop robust
+            frameworks and back-end frameworks, allowing me to develop robust
             and seamlessly integrated web applications.
           </p>
           <div className="md:hidden block">

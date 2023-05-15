@@ -21,7 +21,7 @@ export default function IconList() {
       <li className="mt-4 flex">
         <a
           className="group flex text-base text-slate-500 transition hover:text-slate-700"
-          href="htps://github.com"
+          href="https://github.com/ianshk"
         >
           <svg
             viewBox="0 0 24 24"
