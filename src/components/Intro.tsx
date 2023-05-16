@@ -28,7 +28,7 @@ export default function Intro() {
           <p>
             I'm a front-end React developer with a passion for simplifying complex problems and staying up to
             date with the latest web technologies. My focus is on creating responsive, efficient, and dynamic
-            websites that meet your specific needs.
+            websites and applications.
           </p>
           <p>
             I specialize in using React, and React frameworks like Next.js and Remix. I also love working with
