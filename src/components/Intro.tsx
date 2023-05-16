@@ -46,8 +46,8 @@ export default function Intro() {
             frameworks, allowing me to develop robust and seamlessly integrated web applications.
           </p>
           <p>
-            Feel free to connect with me to explore potential collaborations or discuss how I can contribute
-            to your projects.
+            I'm always looking for new ways to grow and learn. If you have any work opportunities that you
+            think might be a good fit for me, please don't hesitate to reach out.
           </p>
           <div className="md:hidden block">
             <IconList />
