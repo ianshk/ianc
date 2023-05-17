@@ -19,6 +19,11 @@ export default function OpenSource() {
           description="This site made with Next 13 (React) and Tailwind CSS."
           link="https://github.com/ianshk/ianc"
         />
+        <ProjectCard
+          title="Varia"
+          description="Create a headless design system using React Aria, Tailwind CSS, and cva for variants."
+          link="https://github.com/ianshk/varia"
+        />
       </div>
     </div>
   );
