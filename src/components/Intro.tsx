@@ -31,10 +31,13 @@ export default function Intro() {
             websites and applications.
           </p>
           <p>
-            I specialize in using React, and React frameworks like Next.js and Remix. I also love working with
-            the Tailwind CSS library, These tools enable me to build powerful websites that provide a seamless
-            user experience. I also have a strong sense of design and can create visually appealing interfaces
-            that not only look great but also function flawlessly.
+            I specialize in using React, and React frameworks like
+            <a href="https://nextjs.org/"> Next.js</a> and
+            <a href="https://remix.run/"> Remix</a>. I also love working with the
+            <a href="https://tailwindcss.com/"> Tailwind CSS</a> library, These tools enable me to build
+            powerful websites that provide a seamless user experience. I also have a strong sense of design
+            and can create visually appealing interfaces that not only look great but also function
+            flawlessly.
           </p>
           <p>
             I possess the necessary skills to transform Figma designs into React components that accurately

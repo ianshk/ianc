@@ -11,3 +11,7 @@ body {
 p {
   @apply pb-4 text-base text-slate-600;
 }
+
+a {
+  @apply text-teal-600 hover:text-teal-700 visited:text-teal-600;
+}

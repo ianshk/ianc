@@ -4,10 +4,7 @@ export default function IconList() {
   return (
     <ul className="space-y-4 text-left text-slate-500">
       <li className="mt-4 flex">
-        <a
-          className="group flex text-base text-slate-500 transition hover:text-slate-700"
-          href="https://www.linkedin.com/in/ianshk/"
-        >
+        <a className="group flex text-base" href="https://www.linkedin.com/in/ianshk/">
           <svg
             viewBox="0 0 24 24"
             aria-hidden="true"
@@ -19,10 +16,7 @@ export default function IconList() {
         </a>
       </li>
       <li className="mt-4 flex">
-        <a
-          className="group flex text-base text-slate-500 transition hover:text-slate-700"
-          href="https://github.com/ianshk"
-        >
+        <a className="group flex text-base" href="https://github.com/ianshk">
           <svg
             viewBox="0 0 24 24"
             aria-hidden="true"
@@ -34,17 +28,14 @@ export default function IconList() {
         </a>
       </li>
       <li className="mt-4 flex">
-        <a
-          className="group flex text-base text-slate-500 transition hover:text-slate-700"
-          href="mailto:ianshk@gmail.com"
-        >
+        <a className="group flex text-base" href="mailto:ianshk@gmail.com">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
             strokeWidth={1.5}
             stroke="currentColor"
-            className="h-6 w-6 flex-none"
+            className="h-6 w-6 flex-none text-slate-600"
           >
             <path
               strokeLinecap="round"
