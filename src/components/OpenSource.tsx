@@ -24,6 +24,11 @@ export default function OpenSource() {
           description="Create a headless design system using React Aria, Tailwind CSS, and cva for variants."
           link="https://github.com/ianshk/varia"
         />
+        <ProjectCard
+          title="MantineTW"
+          description="An example repro shoing how to use the Mantine component library with TailwindCSS for styling and utilities."
+          link="https://github.com/ianshk/MantineTW"
+        />
       </div>
     </div>
   );
