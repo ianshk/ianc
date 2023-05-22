@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 body {
-  @apply bg-slate-100;
+  @apply bg-slate-100 dark:bg-gray-950;
   text-rendering: optimizeLegibility;
   scroll-behavior: smooth;
 }
 
 p {
-  @apply pb-4 text-base text-slate-600;
+  @apply pb-4 text-base text-slate-600 dark:text-slate-400;
 }
 
 a {

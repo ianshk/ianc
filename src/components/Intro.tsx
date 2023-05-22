@@ -12,14 +12,14 @@ export default function Intro() {
             width={300}
             height={300}
             alt="Ian"
-            className="aspect-square rotate-3 rounded-2xl object-cover shadow-lg shadow-slate-400"
+            className="aspect-square rotate-3 rounded-2xl object-cover shadow-lg shadow-slate-400 dark:shadow-slate-950"
           />
           <div className="hidden pt-0 md:block md:pt-10">
             <IconList />
           </div>
         </div>
         <div className="max-w-md">
-          <h1 className="pb-4 text-3xl font-bold tracking-tight text-slate-800 md:text-4xl">
+          <h1 className="pb-4 text-3xl font-bold tracking-tight text-slate-800 dark:text-slate-50 md:text-4xl">
             I'm Ian, a Front-end web developer based in Hong Kong
           </h1>
           <p>
