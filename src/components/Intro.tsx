@@ -19,9 +19,9 @@ export default function Intro() {
           </div>
         </div>
         <div className="max-w-md">
-          <span className="inline-flex items-center rounded-full bg-teal-50 px-2 py-1 text-base font-medium text-teal-900 ring-1 ring-inset ring-teal-600/20 mb-2">
+          <div className="inline-flex items-center rounded-full bg-teal-50 px-2 py-1 text-base font-medium text-teal-900 ring-1 ring-inset ring-teal-600/20 mb-2">
             Hi there 👋
-          </span>
+          </div>
           <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-slate-800 pb-4">
             I'm Ian, a Front-end web developer based in Hong Kong
           </h1>
