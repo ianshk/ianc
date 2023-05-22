@@ -20,7 +20,11 @@ export default function Intro() {
         </div>
         <div className="max-w-md">
           <h1 className="pb-4 text-3xl font-bold tracking-tight text-slate-800 dark:text-slate-50 md:text-4xl">
-            I'm Ian, a Front-end web developer based in Hong Kong
+            I'm Ian, a{' '}
+            <span className="bg-gradient-to-tl from-teal-600 to-teal-500 bg-clip-text text-transparent dark:to-teal-400">
+              Front-end web developer
+            </span>{' '}
+            based in Hong Kong
           </h1>
           <p>
             I'm a front-end React developer with a passion for simplifying complex problems and staying up to
