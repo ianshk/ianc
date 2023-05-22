@@ -15,7 +15,7 @@ const DarkSwitch = () => {
     return null;
   }
 
-  const currentTheme = theme === 'system' ? systemTheme : theme;
+  const currentTheme = theme === 'dark' ? systemTheme : theme;
 
   return (
     <div>
