@@ -13,5 +13,5 @@ p {
 }
 
 a {
-  @apply text-teal-600 hover:text-teal-700 visited:text-teal-600;
+  @apply text-teal-600 visited:text-teal-600 hover:text-teal-700;
 }

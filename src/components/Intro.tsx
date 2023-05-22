@@ -4,8 +4,8 @@ import IconList from './IconList';
 
 export default function Intro() {
   return (
-    <div className="pt-14 pb-10">
-      <div className="flex flex-row gap-12 flex-wrap">
+    <div className="pb-10 pt-14">
+      <div className="flex flex-row flex-wrap gap-12">
         <div className=" mx-auto md:mx-0">
           <Image
             src="/images/avatar.jpg"
@@ -14,15 +14,12 @@ export default function Intro() {
             alt="Ian"
             className="aspect-square rotate-3 rounded-2xl object-cover shadow-lg shadow-slate-400"
           />
-          <div className="hidden md:block md:pt-10 pt-0">
+          <div className="hidden pt-0 md:block md:pt-10">
             <IconList />
           </div>
         </div>
         <div className="max-w-md">
-          <div className="inline-flex items-center rounded-full bg-teal-50 px-2 py-1 text-base font-medium text-teal-900 ring-1 ring-inset ring-teal-600/20 mb-2">
-            Hi there 👋
-          </div>
-          <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-slate-800 pb-4">
+          <h1 className="pb-4 text-3xl font-bold tracking-tight text-slate-800 md:text-4xl">
             I'm Ian, a Front-end web developer based in Hong Kong
           </h1>
           <p>
@@ -52,7 +49,7 @@ export default function Intro() {
             I'm always looking for new ways to grow and learn. If you have any work opportunities that you
             think might be a good fit for me, please don't hesitate to reach out.
           </p>
-          <div className="md:hidden block">
+          <div className="block md:hidden">
             <IconList />
           </div>
         </div>

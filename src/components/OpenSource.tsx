@@ -3,7 +3,7 @@ import ProjectCard from './ProjectCard';
 
 export default function OpenSource() {
   return (
-    <div className="pb-10">
+    <div className="pb-16">
       <hr className="border-t-1 mx-auto mb-10 w-80 border-t-slate-300" />
       <h2 className="pb-8 text-center text-3xl font-bold tracking-tight text-slate-800 md:text-4xl">
         Open Source Projects

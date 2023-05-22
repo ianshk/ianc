@@ -3,6 +3,7 @@ import Intro from '@/components/Intro';
 import Footer from '@/components/Footer';
 import Image from 'next/image';
 import OpenSource from '@/components/OpenSource';
+import TechStack from '@/components/TechStack';
 
 export default function Home() {
   return (
@@ -13,10 +14,11 @@ export default function Home() {
         </div>
       </div>
       <div className="relative">
-        <div className="container mx-auto max-w-2xl lg:max-w-4xl px-12">
+        <div className="container mx-auto max-w-2xl px-12 lg:max-w-4xl">
           <Image src="/images/Logo.svg" width={215} height={32} alt="Ian Callaghan" className="mt-4" />
           <Intro />
           <OpenSource />
+          <TechStack />
         </div>
         <Footer />
       </div>
