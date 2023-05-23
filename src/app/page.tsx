@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <>
       <div className="fixed inset-0 flex justify-center sm:px-8">
-        <div className="flex w-full max-w-7xl px-4 lg:px-8">
-          <div className="w-full bg-white ring-1 ring-slate-200 dark:bg-gray-900 dark:ring-gray-800" />
+        <div className="flex h-screen w-full max-w-7xl px-4 lg:px-8">
+          <div className="h-screen w-full bg-white ring-1 ring-slate-200 dark:bg-gray-900 dark:ring-gray-800" />
         </div>
       </div>
       <div className="relative">
