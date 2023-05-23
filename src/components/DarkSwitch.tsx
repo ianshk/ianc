@@ -12,9 +12,9 @@ const DarkSwitch = () => {
     setMounted(true);
   }, []);
 
-  // if (!mounted) {
-  //   return null;
-  // }
+  if (!mounted) {
+    return null;
+  }
 
   let currentTheme = theme;
 
