@@ -5,8 +5,9 @@ import { MoonIcon, SunIcon } from '@heroicons/react/24/outline';
 
 const DarkSwitch = () => {
   const [mounted, setMounted] = useState(false);
-  const { systemTheme, theme, setTheme } = useTheme();
+  const { theme, setTheme } = useTheme();
 
+  // Prevent hydration errors
   useEffect(() => {
     setMounted(true);
   }, []);
@@ -15,7 +16,7 @@ const DarkSwitch = () => {
     return null;
   }
 
-  const currentTheme = theme === 'dark' ? systemTheme : theme;
+  let currentTheme = theme;
 
   return (
     <div>
