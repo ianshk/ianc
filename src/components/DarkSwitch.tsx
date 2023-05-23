@@ -22,14 +22,14 @@ const DarkSwitch = () => {
     <div>
       {currentTheme === 'dark' ? (
         <SunIcon
-          className="h-6 w-6 cursor-pointer text-amber-400"
+          className="h-6 w-6 cursor-pointer text-amber-300"
           onClick={() => {
             setTheme('light');
           }}
         />
       ) : (
         <MoonIcon
-          className="h-6 w-6 cursor-pointer text-teal-900"
+          className="h-6 w-6 cursor-pointer text-teal-800"
           onClick={() => {
             setTheme('dark');
           }}
