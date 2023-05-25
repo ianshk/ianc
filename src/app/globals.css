@@ -15,3 +15,7 @@ p {
 a {
   @apply text-teal-600 visited:text-teal-600 hover:text-teal-700;
 }
+
+.tech-pill {
+  @apply rounded bg-teal-700 px-4 py-2 text-sm text-slate-50;
+}
