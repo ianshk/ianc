@@ -26,7 +26,7 @@ export default function TechStack() {
         </div>
       </div>
       <div className="pb-2">
-        <div className="block pb-1 text-base font-semibold">Back-end | Database | ORM</div>
+        <div className="block pb-2 text-base font-semibold">Back-end | Database | ORM</div>
         <div className="flex flex-row flex-wrap gap-3 pb-2">
           <div className="tech-pill">Nest.js</div>
           <div className="tech-pill">Express.js</div>
