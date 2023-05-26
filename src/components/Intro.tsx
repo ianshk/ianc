@@ -35,19 +35,17 @@ export default function Intro() {
             I specialize in using React, and React frameworks like
             <a href="https://nextjs.org/"> Next.js</a> and
             <a href="https://remix.run/"> Remix</a>. I also love working with the
-            <a href="https://tailwindcss.com/"> Tailwind CSS</a> library, These tools enable me to build
-            powerful websites that provide a seamless user experience. I also have a strong sense of design
-            and can create visually appealing interfaces that not only look great but also function
-            flawlessly.
+            <a href="https://tailwindcss.com/"> Tailwind CSS</a> library, These tools enable me to build web
+            applications that provide a seamless user experience. I also have a strong sense of design and can
+            create visually appealing interfaces that not only look great but also function flawlessly.
           </p>
           <p>
-            I possess the necessary skills to transform Figma designs into React components that accurately
-            reflect the original design. I prioritize meticulous attention to detail and strive to provide a
-            visually cohesive end product.
+            I possess the necessary skills to transform design files (Figam, Sketch, Adobe XD) into React
+            components that accurately reflect the original design.
           </p>
           <p>
-            Over the years I have honed my skills in both front-end javascript frameworks and back-end
-            frameworks, allowing me to develop robust and seamlessly integrated web applications.
+            Over the years I have honed my skills in both front-end and back-end frameworks, allowing me to
+            develop robust and seamlessly integrated web applications.
           </p>
           <p>
             I'm always looking for new ways to grow and learn. If you have any work opportunities that you
