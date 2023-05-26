@@ -40,16 +40,18 @@ export default function Intro() {
             create visually appealing interfaces that not only look great but also function flawlessly.
           </p>
           <p>
-            I possess the necessary skills to transform design files (Figam, Sketch, Adobe XD) into React
-            components that accurately reflect the original design.
+            I possess the essential skills to convert design files from various platforms such as Figma,
+            Sketch, and Adobe XD into React components that faithfully capture the original design.
           </p>
           <p>
-            Over the years I have honed my skills in both front-end and back-end frameworks, allowing me to
-            develop robust and seamlessly integrated web applications.
+            Throughout my professional journey, I have diligently honed my skills in both front-end and
+            back-end frameworks. This has equipped me with a solid understanding of REST and GraphQL, enabling
+            me to seamlessly integrate with backend servers for optimal functionality.
           </p>
           <p>
-            I'm always looking for new ways to grow and learn. If you have any work opportunities that you
-            think might be a good fit for me, please don't hesitate to reach out.
+            I'm always looking for new ways to grow and learn. and I thrive on working with new and exciting
+            projects. If you have any work opportunities that you think might be a good fit for me, please
+            don't hesitate to reach out
           </p>
           <div className="block md:hidden">
             <IconList />
