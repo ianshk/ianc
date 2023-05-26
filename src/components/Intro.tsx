@@ -49,9 +49,8 @@ export default function Intro() {
             me to seamlessly integrate with backend servers for optimal functionality.
           </p>
           <p>
-            I'm always looking for new ways to grow and learn. and I thrive on working with new and exciting
-            projects. If you have any work opportunities that you think might be a good fit for me, please
-            don't hesitate to reach out
+            I am eager to learn and grow, and I enjoy working on fresh and exciting projects. If you'd like to
+            discuss working together, please get in touch.
           </p>
           <div className="block md:hidden">
             <IconList />
