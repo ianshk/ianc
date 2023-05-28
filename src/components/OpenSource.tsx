@@ -3,22 +3,26 @@ import ProjectCard from './ProjectCard';
 
 const cardItems = [
   {
+    id: 1,
     title: 'Movie Time',
     description:
       'A Movie suggestion site made with Next 13 (React) and Tailwind CSS. Uses features of Next 13 such as server components and fetching API data from the server.',
     link: 'https://github.com/ianshk/newmovies',
   },
   {
+    id: 2,
     title: 'Personal website',
     description: 'This site made with Next 13 (React) and Tailwind CSS.',
     link: 'https://github.com/ianshk/ianc',
   },
   {
+    id: 3,
     title: 'Varia',
     description: 'Create a headless design system using React Aria, Tailwind CSS, and cva for variants.',
     link: 'https://github.com/ianshk/varia',
   },
   {
+    id: 4,
     title: 'MantineTW',
     description:
       'An example repro shoing how to use the Mantine component library with TailwindCSS for styling and utilities.',
@@ -35,7 +39,7 @@ export default function OpenSource() {
       </h2>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
         {cardItems.map((item) => (
-          <ProjectCard title={item.title} description={item.description} link={item.link} />
+          <ProjectCard key={item.id} title={item.title} description={item.description} link={item.link} />
         ))}
       </div>
     </div>
