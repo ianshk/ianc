@@ -4,6 +4,7 @@ import Footer from '@/components/Footer';
 import OpenSource from '@/components/OpenSource';
 import TechStack from '@/components/TechStack';
 import NavBar from '@/components/NavBar';
+import { Clients } from '@/components/Clients';
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
           <NavBar />
           <Intro />
           <OpenSource />
+          <Clients />
           <TechStack />
         </div>
         <Footer />
