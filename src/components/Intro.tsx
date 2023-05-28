@@ -26,31 +26,35 @@ export default function Intro() {
             </span>{' '}
             based in Hong Kong
           </h1>
+
           <p>
-            I'm a front-end React developer with a passion for simplifying complex problems and staying up to
-            date with the latest web technologies. My focus is on creating responsive, efficient, and dynamic
-            websites and applications.
+            I'm a React developer who enjoys simplifying complex problems and staying updated with the latest
+            web technologies. My main focus is on creating responsive, efficient, and dynamic websites and
+            applications.
           </p>
+
           <p>
-            I specialize in using React, and React frameworks like
-            <a href="https://nextjs.org/"> Next.js</a> and
-            <a href="https://remix.run/"> Remix</a>. I also love working with the
-            <a href="https://tailwindcss.com/"> Tailwind CSS</a> library, These tools enable me to build web
-            applications that provide a seamless user experience. I also have a strong sense of design and can
+            I specialize in using React and its frameworks like <a href="https://nextjs.org/"> Next.js</a> and{' '}
+            <a href="https://remix.run/"> Remix</a>. Additionally, I love working with the{' '}
+            <a href="https://tailwindcss.com/"> Tailwind CSS</a> library. These tools allow me to build web
+            applications that provide a smooth user experience. I also have a keen eye for design and can
             create visually appealing interfaces that not only look great but also function flawlessly.
           </p>
+
           <p>
-            I possess the essential skills to convert design files from various platforms such as Figma,
-            Sketch, and Adobe XD into React components that faithfully capture the original design.
+            I have the necessary skills to convert design files from platforms such as Figma, Sketch, and
+            Adobe XD into React components that accurately represent the original design.
           </p>
+
           <p>
-            Throughout my professional journey, I have diligently honed my skills in both front-end and
-            back-end frameworks. This has equipped me with a solid understanding of REST and GraphQL, enabling
-            me to seamlessly integrate with backend servers for optimal functionality.
+            Throughout my professional career, I have acquired expertise in both front-end and back-end
+            frameworks. This has provided me with a strong understanding of REST and GraphQL, enabling
+            seamless integration with backend servers for optimal functionality.
           </p>
+
           <p>
-            I am eager to learn and grow, and I enjoy working on fresh and exciting projects. If you'd like to
-            discuss working together, please get in touch.
+            I am eager to learn and grow, and I enjoy working on fresh and exciting projects. If you're
+            interested in collaborating, please feel free to <a href="mailto:ianshk@gmail.com"> reach out</a>.
           </p>
           <div className="block md:hidden">
             <IconList />
