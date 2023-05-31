@@ -22,7 +22,7 @@ export default function Intro() {
           <h1 className="pb-4 text-3xl font-bold tracking-tight text-slate-800 dark:text-slate-50 md:text-4xl">
             I'm Ian, a{' '}
             <span className="bg-gradient-to-tl from-teal-600 to-teal-500 bg-clip-text text-transparent dark:to-teal-400">
-              Front-end web developer
+              Web developer
             </span>{' '}
             based in Hong Kong
           </h1>

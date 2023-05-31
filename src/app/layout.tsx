@@ -6,7 +6,7 @@ import Providers from './theme-provider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'React front-end developer based in Hong Kong - Ian Callaghan',
+  title: 'React web developer based in Hong Kong - Ian Callaghan',
   description: 'Personal website for Ian Callaghan a Hong Kong React developer',
 };
 
