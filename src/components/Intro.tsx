@@ -20,36 +20,38 @@ export default function Intro() {
         </div>
         <div className="max-w-md">
           <h1 className="pb-4 text-3xl font-bold tracking-tight text-slate-800 dark:text-slate-50 md:text-4xl">
-            I'm Ian, a{' '}
+            I'm Ian, a Senior{' '}
             <span className="bg-gradient-to-tl from-teal-600 to-teal-500 bg-clip-text text-transparent dark:to-teal-400">
               Web developer
             </span>{' '}
             based in Hong Kong
           </h1>
           <p>
-            I'm a React developer who enjoys simplifying complex problems and staying updated with the latest
-            web technologies. My main focus is on creating responsive, efficient, and dynamic websites and
-            applications.
+            I'm a passionate web developer who enjoys simplifying complex problems and staying updated with
+            the latest web technologies. My main focus is on creating responsive, speed optimized, dynamic
+            websites and applications.
           </p>
           <p>
-            I specialize in using React and its frameworks like <a href="https://nextjs.org/"> Next.js</a> and{' '}
-            <a href="https://remix.run/"> Remix</a>. Additionally, I love working with the{' '}
-            <a href="https://tailwindcss.com/"> Tailwind CSS</a> library. These tools allow me to build web
-            applications that provide a smooth user experience. I also have a keen eye for design and can
-            create visually appealing interfaces that not only look great but also function flawlessly.
+            I specialize in using <a href="https://react.dev/">React</a> and modern frameworks such as{' '}
+            <a href="https://nextjs.org/">Next.js</a> and
+            <a href="https://remix.run/"> Remix</a> and<a href="https://astro.build/"> Astro</a>.
+            Additionally, I love working with
+            <a href="https://tailwindcss.com/"> Tailwind CSS.</a> These tools allow me to build web
+            applications that provide an enjoyable user experience.
           </p>
           <p>
-            I have the necessary skills to convert design files from platforms such as Figma, Sketch, and
-            Adobe XD into React components that accurately represent the original design.
+            I have a strong sense of design and can create visually appealing interfaces that are both
+            beautiful and highly functional.
           </p>
           <p>
-            Throughout my professional career, I have acquired expertise in both front-end and back-end
-            frameworks. This has provided me with a strong understanding of REST and GraphQL, enabling
-            seamless integration with backend servers for optimal functionality.
+            Throughout my professional career, I have had the opportunity to work in various roles within
+            software development, including front-end, back-end, and full-stack positions. This diverse
+            experience has allowed me to gain comprehensive knowledge and expertise in different aspects of
+            web development.
           </p>
           <p>
-            I am eager to learn and grow, and I enjoy working on fresh and exciting projects. If you're
-            interested in collaborating, please feel free to <a href="mailto:ianshk@gmail.com"> reach out</a>.
+            I enjoy working on new and exciting projects and I'm available for consultation, contract work,
+            and full-time remote positions.
           </p>
           <div className="block md:hidden">
             <IconList />

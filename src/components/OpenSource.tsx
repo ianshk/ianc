@@ -12,7 +12,7 @@ const cardItems = [
   {
     id: 2,
     title: 'Personal website',
-    description: 'This site made with Next 13 (React) and Tailwind CSS.',
+    description: 'Next 13 (React) and Tailwind CSS version of my Personal website',
     link: 'https://github.com/ianshk/ianc',
   },
   {

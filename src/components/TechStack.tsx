@@ -8,14 +8,14 @@ export default function TechStack() {
         Tech Stack
       </h2>
       <div className="pb-2">
-        <div className="block pb-2 text-base font-semibold">Languages</div>
+        <div className="block pb-2 text-base font-semibold text-slate-800 dark:text-slate-50">Languages</div>
         <div className="flex flex-row flex-wrap gap-3 pb-2">
           <div className="tech-pill">JavaScript</div>
           <div className="tech-pill">TypeScript</div>
         </div>
       </div>
       <div className="pb-2">
-        <div className="block pb-2 text-base font-semibold">Front-end</div>
+        <div className="block pb-2 text-base font-semibold text-slate-800 dark:text-slate-50">Front-end</div>
         <div className="flex flex-row flex-wrap gap-3 pb-2">
           <div className="tech-pill">React</div>
           <div className="tech-pill">Next.js</div>
@@ -26,7 +26,7 @@ export default function TechStack() {
         </div>
       </div>
       <div className="pb-2">
-        <div className="block pb-2 text-base font-semibold">Back-end | Database | ORM</div>
+        <div className="block pb-2 text-base font-semibold text-slate-800 dark:text-slate-50">Back-end | Database | ORM</div>
         <div className="flex flex-row flex-wrap gap-3 pb-2">
           <div className="tech-pill">Nest.js</div>
           <div className="tech-pill">Express.js</div>
@@ -37,7 +37,7 @@ export default function TechStack() {
         </div>
       </div>
       <div className="pb-2">
-        <div className="block pb-2 text-base font-semibold">Tools | Hosting</div>
+        <div className="block pb-2 text-base font-semibold text-slate-800 dark:text-slate-50">Tools | Hosting</div>
         <div className="flex flex-row flex-wrap gap-3 pb-2">
           <div className="tech-pill">Vercel</div>
           <div className="tech-pill">AWS (SST)</div>
